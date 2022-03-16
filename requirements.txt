@@ -1,0 +1,14 @@
+keras==2.4.3
+matplotlib==3.0.2
+nltk==3.5
+numpy==1.16.2
+pandas==1.0.3
+python==3.7.1
+re==2.2.1
+scikit_learn==0.24.1
+scipy==1.2.1
+torch==1.8.1
+transformers==4.5.1
+tqdm==4.29.1
+xgboost==0.90
+
